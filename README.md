@@ -1,3 +1,4 @@
+
 # Human Activity Recognition Using Smartphones Data
 
 by Balaji Iyengar in Jun, 2014
